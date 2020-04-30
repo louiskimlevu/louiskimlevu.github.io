@@ -1,9 +1,9 @@
 title: Louis Kim Le Vu # your name (or website title) here
 logo: "/images/kim_photo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Language: Python (Flask, numpy, panda, matplot)
   <br><br>
-  Second description 
+  Cloud: AWS, GCP
   <br><br>
   <a href="https://www.linkedin.com/in/louiskimlevu/">View My LinkedIn Profile</a> 
   
