@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Population Pyramids](/population-pyramids)
-<img src="images/population-pyramid.jpg?raw=true"/>
+<img src="images/population.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
