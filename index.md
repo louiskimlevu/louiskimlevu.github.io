@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis with Python
 
 [Population Pyramids](/population-pyramids)
 <img src="images/population.jpg?raw=true"/>
