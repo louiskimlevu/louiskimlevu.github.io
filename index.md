@@ -8,8 +8,8 @@
 <img src="images/population.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Iss location prediction](/iss-prediction-webapp)
+<img src="images/iss.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
