@@ -18,7 +18,7 @@
 ---
 
 ### Certifications
-<img src="images/GCPACE.png?raw=true" width="200"/>
+<img src="images/GCPACE.png?raw=true" height="21" width="21"/>
 <img src="images/AWSCP.png?raw=true" width="200"/>
 ---
 
