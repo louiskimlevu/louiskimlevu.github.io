@@ -21,5 +21,8 @@
 <img src="images/GCPACE.png?raw=true" height="150" width="150"/>
 <br/>
 <img src="images/AWSSA.png?raw=true" height="150" width="150"/>
+<br/>
+
 <img src="images/AWSDEV.png?raw=true" height="150" width="150"/>
+<br/>
 <img src="images/AWSCP.png?raw=true" height="150" width="150"/>
