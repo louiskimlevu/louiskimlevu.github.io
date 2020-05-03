@@ -8,7 +8,7 @@
 <img src="images/population.jpg?raw=true"/>
 
 ---
-[Iss location prediction](/iss-prediction-webapp)
+[ISS location prediction](/iss-prediction-webapp)
 <img src="images/iss.jpg?raw=true"/>
 
 ---
