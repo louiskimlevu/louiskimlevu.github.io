@@ -23,8 +23,3 @@
 <img src="images/AWSCP.png?raw=true" height="150" width="150"/>
 ---
 
-
-
-
----
-
