@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/louiskimlevu/">https://www.linkedin.com/in/louiskimlevu/</a> 
   <br> GCP </br>
 logo: "/images/GCP-ACE.png?raw=true" 
-  <br> Python </br>
-  
+  <br> AWS </br>
+logo: "/images/AWS-CP.png?raw=true"   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
