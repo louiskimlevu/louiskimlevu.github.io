@@ -14,13 +14,14 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true" height="150" width="150"/>
-<a href="https://www.qwiklabs.com/public_profiles/06b357b8-6821-485b-b811-fa29cee6a4c5">
-<img src="images/GCPLAB.png?raw=true" height="150" width="150"/>
-</a>
+
 ---
 
 ### Certifications
 <img src="images/GCPACE.png?raw=true" height="150" width="150"/>
+<a href="https://www.qwiklabs.com/public_profiles/06b357b8-6821-485b-b811-fa29cee6a4c5">
+<img src="images/GCPLAB.png?raw=true" height="150" width="150"/>
+</a>
 <br/>
 <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-16&ci=AWS01139510">
 <img src="images/AWSSA.png?raw=true" height="150" width="150"/>
