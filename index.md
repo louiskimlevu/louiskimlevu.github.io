@@ -20,7 +20,6 @@
 ### Certifications
 <img src="images/GCPACE.png?raw=true" height="150" width="150"/>
 <br/>
-
 <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-16&ci=AWS01139510">
 <img src="images/AWSSA.png?raw=true" height="150" width="150"/>
 </a>
