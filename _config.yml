@@ -3,7 +3,8 @@ logo: "/images/kim-photo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   <a href="https://www.linkedin.com/in/louiskimlevu/">https://www.linkedin.com/in/louiskimlevu/</a> 
-  <br> Cloud: AWS, GCP </br>
+  <br> GCP </br>
+logo: "/images/GCP-ACE.png?raw=true" 
   <br> Python </br>
   
 theme: jekyll-theme-minimal
