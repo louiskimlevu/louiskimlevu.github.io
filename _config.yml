@@ -1,8 +1,8 @@
 title: Louis Kim Le Vu # your name (or website title) here
 logo: "/images/kim-photo.png?raw=true" # your photo (or logo) here
 description: >- # your text below (remove <br> elements if you don't need line breaks)
-Gnera un sitio web con el generador automático de páginas GitHub
-Pages. 
+# Gnera un sitio web con el generador automático de páginas GitHub
+# Pages. 
 #<a href="https://www.linkedin.com/in/louiskimlevu/">My Linkedin</a> 
 Data cleaning: Pands, numpy
 <br></br>
