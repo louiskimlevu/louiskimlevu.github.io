@@ -2,22 +2,20 @@ title: Louis Kim Le Vu # your name (or website title) here
 logo: "/images/kim-photo.png?raw=true" # your photo (or logo) here
 description: >- # your text below (remove <br> elements if you don't need line breaks)
   #<a href="https://www.linkedin.com/in/louiskimlevu/">My Linkedin</a>
-  Tech stack
 
-  <br><br>
-  Web Framework Flask
-  <br><br>
-  Cloud AWS, GCP
-  <br><br>
-  Deployment Containers(Docker, Kubernetes) , AppEngine (PAAS)   
-  <br><br>
-  Machine Learning Linear Regression, Random Forest, Decision Tree
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Tech stack:
   <br><br>
-  Second description 
+  Web Framework: Backend in Python/Flask, Frontend HTML
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Cloud AWS, GCP
+  <br><br>
+  Deployment: Containers(Docker, Kubernetes), AppEngine (PAAS)   
+  <br><br>
+  Machine Learning:
+    - Supervised:
+      - Regression: Linear Regression,  , 
+      -Classification:Decision Tree, Random Forest, KNN
