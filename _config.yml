@@ -9,13 +9,31 @@ google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Tech stack:
   <br><br>
-  Web Framework: Backend in Python/Flask, Frontend HTML
+  Web Framework: 
+  <br>
+  Backend: Python/Flask
+  <br>
+  Frontend: HTML
+  
   <br><br>
-  Cloud AWS, GCP
+  Cloud: 
+  <br>
+  AWS
+  <br>
+  GCP
+  
   <br><br>
-  Deployment: Containers(Docker, Kubernetes), AppEngine (PAAS)   
+  Deployment: 
+  <br>
+  Containers(Docker, Kubernetes)
+  <br>
+  AppEngine (PAAS)    
+  
   <br><br>
   Machine Learning:
-    - Supervised:
-      - Regression: Linear Regression,  , 
-      -Classification:Decision Tree, Random Forest, KNN
+  <br>
+    - Supervised: 
+      <br>
+      Regression: Linear
+      Classification: Decision Tree, Random Forest, KNN
+
