@@ -21,6 +21,7 @@
 <img src="images/GCPACE.png?raw=true" height="150" width="150"/>
 <a href="https://www.qwiklabs.com/public_profiles/06b357b8-6821-485b-b811-fa29cee6a4c5">
 <img src="images/GCPLAB.png?raw=true" height="150" width="150"/>
+<a href="https://www.credential.net/ec5b3adf-d241-4171-bbf1-1272f3857c99">
 </a>
 <br/>
 <a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-16&ci=AWS01139510">
