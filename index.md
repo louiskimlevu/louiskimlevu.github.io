@@ -4,7 +4,7 @@
 
 ### Data Analysis with Python
 
-[Population Pyramids](/population-pyramids)
+[Population Pyramids](/population-pyramids-webapp)
 <img src="images/population.jpg?raw=true"/>
 
 ---
