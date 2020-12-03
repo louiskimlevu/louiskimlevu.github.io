@@ -3,11 +3,11 @@
 # Technologies/methodologies I like to use
 
 ## Web Development:
-Frontend: Javascript: React
-Backend: Node.js: Express, Python: Django
-Stack: LAMP, MERN
-APIs: REST, GraphQL, gRPC
-Service Mesh: Anthos Service Mesh, Istio
+<br /> Frontend: Javascript: React
+<br /> Backend: Node.js: Express, Python: Django
+<br /> Stack: LAMP, MERN
+<br /> APIs: REST, GraphQL, gRPC
+<br /> Service Mesh: Anthos Service Mesh, Istio
 
 ## Virtual Machines / IaaS:
 AWS EC2
