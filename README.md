@@ -5,6 +5,10 @@ APIs:
 - REST
 - gRPC
 
+Web Development:
+- Frontend: Javascript: React
+- Backend: Node.js: Express, Python: Django
+
 serverless:
 - AWS Amplify
 - AWS AppSync
@@ -12,7 +16,7 @@ serverless:
 - AWS Lambda
 - AWS Cognito
 
-containers:
+Containers:
 - Docker
 - Kubernetes
 - Helm
@@ -22,11 +26,12 @@ containers:
 
 IaC
 - Terraform
-- Terragrunt (learning)
+- Terragrunt
 
 CICD:
 - Azure Devops
 - Gitlab CICD
 - Github Actions
+- Terraform Cloud
 - GCP Cloud Build
-- AWS Code Build / Code Deploy / Code Pipeline
+- AWS Code Build / Code Deploy / Code Pipeline / Code Star
