@@ -1,21 +1,70 @@
-## Portfolio
 
----
 
-### Data Analysis with Python
+# Technologies/methodologies I like to use
 
-[Population Pyramids](/population-pyramids-webapp)
-<img src="images/population.jpg?raw=true"/>
+## Web Development:
+Frontend: Javascript: React
+Backend: Node.js: Express, Python: Django
+Stack: LAMP, MERN
+APIs: REST, GraphQL, gRPC
+Service Mesh: Anthos Service Mesh, Istio
 
----
-[ISS location prediction](/iss-prediction-webapp)
-<img src="images/iss.jpg?raw=true"/>
+## Virtual Machines / IaaS:
+AWS EC2
+GCP Compute Engine
+Azure Virtual Machines
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true" height="150" width="150"/>
+## PaaS:
+AWS Beanstalk
+GCP App Engine
+Azure App Service
 
----
+## Containers:
+Docker
+Kubernetes
+Helm
+GCP GKE, Cloud Run, Anthos GKE On Prem
+AWS ECS, EKS
+Azure AKS
+Nginx Ingress Controller
+
+## Serverless:
+AWS Amplify, AppSync, Lambda, API Gateway, Cognito
+GCP Firebase, Cloud Functions, Cloud Endpoints, Apigee
+
+## Databases:
+AWS RDS, Aurora, DynamoDB, Redshift
+GCP CloudSQL, CloudSpanner, Bigtable, Datastore, Firestore, BigQuery
+Azure SQL
+MongoDB
+
+## IaC / Config Management
+Terraform
+Terragrunt
+Ansible
+AWS CloudFormation, System Manager, OpsWork
+GCP Deployment Manager
+Azure Resource Manager
+
+## CICD:
+Gitlab CICD
+Github Actions
+Terraform Cloud
+AWS Code Build / Code Deploy / Code Pipeline / Code Star
+GCP Cloud Build
+Azure Devops
+
+## Machine Learning:
+Python: Panda, Numpy, Scikit-learn, Tensorflow, Keras
+AWS Sagemaker
+GCP AutoML
+
+## Cloud Migrations:
+Cloud Readiness assessment
+Application Discovery and analysis
+AWS Cloud Adoption Framework workshops & action plans, MAP (MRA, MRP, Migrate)
+GCP Cloud Adoption Framework, Google PSO infrastrusture migrations packages
+Azure Cloud Adoption Framework
 
 ### Certifications
 <img src="images/GCPACE.png?raw=true" height="150" width="150"/>
