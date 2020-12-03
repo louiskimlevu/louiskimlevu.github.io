@@ -1,4 +1,4 @@
-## Welcome to my github page!
+## Welcome to my Github page!
 
 These are the technologies I like to use:
 
