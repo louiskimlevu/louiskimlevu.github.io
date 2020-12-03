@@ -23,8 +23,8 @@ Containers:
 - Docker
 - Kubernetes
 - Helm
-- GCP GKE / Cloud Run / Anthos GKE On Prem
-- AWS ECS / EKS
+- GCP GKE, Cloud Run, Anthos GKE On Prem
+- AWS ECS, EKS
 - Azure AKS
 - Nginx Ingress Controller
 
@@ -38,9 +38,13 @@ Databases:
 - Azure SQL
 - MongoDB
 
-IaC
+IaC / Config Management
 - Terraform
 - Terragrunt
+- Ansible
+- AWS CloudFormation, System Manager, OpsWork
+- GCP Deployment Manager
+- Azure Resource Manager
 
 CICD:
 - Gitlab CICD
@@ -51,6 +55,6 @@ CICD:
 - Azure Devops
 
 Machine Learning:
-- Python: Panda, Tensorflow, Keras
+- Python: Panda, Numpy, Scikit-learn, Tensorflow, Keras
 - AWS Sagemaker
 - GCP AutoML
