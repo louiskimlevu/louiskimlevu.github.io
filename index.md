@@ -3,25 +3,25 @@
 # Technologies/methodologies I like to use
 
 ## Web Development:
-<br /> Frontend: Javascript: React
+Frontend: Javascript: React
 <br /> Backend: Node.js: Express, Python: Django
 <br /> Stack: LAMP, MERN
 <br /> APIs: REST, GraphQL, gRPC
 <br /> Service Mesh: Anthos Service Mesh, Istio
 
 ## Virtual Machines / IaaS:
-<br /> AWS EC2
+AWS EC2
 <br /> GCP Compute Engine
 <br /> Azure Virtual Machines
 
 ## PaaS:
-<br /> AWS Beanstalk
+AWS Beanstalk
 <br /> GCP App Engine
 <br /> Azure App Service
 
 ## Containers:
-<br /> Docker
-<br /><br /> Kubernetes
+Docker
+<br />Kubernetes
 <br /> Helm
 <br /> GCP GKE, Cloud Run, Anthos GKE On Prem
 <br /> AWS ECS, EKS
@@ -29,17 +29,17 @@
 <br /> Nginx Ingress Controller
 
 ## Serverless:
-<br /> AWS Amplify, AppSync, Lambda, API Gateway, Cognito
+AWS Amplify, AppSync, Lambda, API Gateway, Cognito
 <br /> GCP Firebase, Cloud Functions, Cloud Endpoints, Apigee
 
 ## Databases:
-<br /> AWS RDS, Aurora, DynamoDB, Redshift
+AWS RDS, Aurora, DynamoDB, Redshift
 <br /> GCP CloudSQL, CloudSpanner, Bigtable, Datastore, Firestore, BigQuery
 <br /> Azure SQL
 <br /> MongoDB
 
 ## IaC / Config Management
-<br /> Terraform
+Terraform
 <br /> Terragrunt
 <br /> Ansible
 <br /> AWS CloudFormation, System Manager, OpsWork
@@ -47,13 +47,14 @@
 <br /> Azure Resource Manager
 
 ## Logging / Monitoring
-<br /> Logs: Datadog, Prometheus
+Logs: Datadog, Prometheus
 <br /> Logs: ELK, Splunk
 <br /> AWS CloudWatch
 <br /> GCP Operation Suites
 <br /> Azure Monitor
+
 ## CICD:
-<br /> Gitlab CICD
+Gitlab CICD
 <br /> Github Actions
 <br /> Terraform Cloud
 <br /> AWS Code Build / Code Deploy / Code Pipeline / Code Star
@@ -61,12 +62,12 @@
 <br /> Azure Devops
 
 ## Machine Learning:
-<br /> Python: Panda, Numpy, Scikit-learn, Tensorflow, Keras
+Python: Panda, Numpy, Scikit-learn, Tensorflow, Keras
 <br /> AWS Sagemaker
 <br /> GCP AutoML
 
 ## Cloud Migrations:
-<br /> Cloud Readiness assessment
+Cloud Readiness assessment
 <br /> Application Discovery and analysis
 <br /> <br /> AWS Cloud Adoption Framework workshops & action plans, MAP (MRA, MRP, Migrate)
 <br /> GCP Cloud Adoption Framework, Google PSO infrastrusture migrations packages
