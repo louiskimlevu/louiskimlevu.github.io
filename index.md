@@ -3,11 +3,11 @@
 # Technologies/methodologies I like to use
 
 ## Web Development:
-Frontend: Javascript: React
-<br /> Backend: Node.js: Express, Python: Django
-<br /> Stack: LAMP, MERN
-<br /> APIs: REST, GraphQL, gRPC
-<br /> Service Mesh: Anthos Service Mesh, Istio
+- Frontend: Javascript: React
+<br /> - Backend: Node.js: Express, Python: Django
+<br /> - Stack: LAMP, MERN
+<br /> - APIs: REST, GraphQL, gRPC
+<br /> - Service Mesh: Anthos Service Mesh, Istio
 
 ## Virtual Machines / IaaS:
 AWS EC2
@@ -69,7 +69,7 @@ Python: Panda, Numpy, Scikit-learn, Tensorflow, Keras
 ## Cloud Migrations:
 Cloud Readiness assessment
 <br /> Application Discovery and analysis
-<br /> <br /> AWS Cloud Adoption Framework workshops & action plans, MAP (MRA, MRP, Migrate)
+<br /> AWS Cloud Adoption Framework workshops & action plans, MAP (MRA, MRP, Migrate)
 <br /> GCP Cloud Adoption Framework, Google PSO infrastrusture migrations packages
 <br /> Azure Cloud Adoption Framework
 
