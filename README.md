@@ -1,16 +1,13 @@
 ## Welcome to my github page!
 
-This is the technologies I like to use.
-
-APIs:
-- GraphQL
-- REST
-- gRPC
+This is the technologies I like to use:
 
 Web Development:
 - Frontend: Javascript: React
 - Backend: Node.js: Express, Python: Django
-- LAMP stack
+- Stack: LAMP, MERN
+- APIs: REST, GraphQL, gRPC
+- Service Mesh: Anthos Service Mesh, Istio
 
 Virtual Machines / IaaS:
 - AWS EC2
@@ -32,16 +29,17 @@ Containers:
 - Nginx Ingress Controller
 
 Serverless:
-- GCP Firebase
+- AWS Amplify, AppSync, Lambda, API Gateway, Cognito 
+- GCP Firebase, Cloud Functions, Cloud Endpoints, Apigee
 
 IaC
 - Terraform
 - Terragrunt
 
 CICD:
-- Azure Devops
 - Gitlab CICD
 - Github Actions
 - Terraform Cloud
-- GCP Cloud Build
 - AWS Code Build / Code Deploy / Code Pipeline / Code Star
+- GCP Cloud Build
+- Azure Devops
