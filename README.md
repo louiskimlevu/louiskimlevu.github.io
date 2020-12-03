@@ -58,3 +58,10 @@ Machine Learning:
 - Python: Panda, Numpy, Scikit-learn, Tensorflow, Keras
 - AWS Sagemaker
 - GCP AutoML
+
+Cloud Migrations:
+- Cloud Readiness assessment
+- Application Discovery and analysis
+- AWS Cloud Adoption Framework, MAP (MRA, MRP, Migrate)
+- GCP Cloud Adoption Framework, Google PSO infrastrusture migrations packages 
+- Azure Cloud Adoption Framework
