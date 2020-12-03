@@ -1,7 +1,6 @@
 
 
-# Technologies/methodologies I like to use
-
+# Technologies/methodologies
 #### Web Development:
 - Frontend: Javascript: React
 - Backend: Node.js: Express, Python: Django
@@ -72,7 +71,7 @@
 - GCP Cloud Adoption Framework, Google PSO infrastrusture migrations packages
 - Azure Cloud Adoption Framework
 
-#### Certifications
+# Certifications
 <img src="images/GCPACE.png?raw=true" height="150" width="150"/>
 <a href="https://www.qwiklabs.com/public_profiles/06b357b8-6821-485b-b811-fa29cee6a4c5">
 <img src="images/GCPLAB.png?raw=true" height="150" width="150"/>
