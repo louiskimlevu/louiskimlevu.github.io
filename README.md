@@ -1,6 +1,6 @@
 ## Welcome to my github page!
 
-This is the technologies I like to use:
+These are the technologies I like to use:
 
 Web Development:
 - Frontend: Javascript: React
