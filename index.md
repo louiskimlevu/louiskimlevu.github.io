@@ -4,7 +4,7 @@
 
 ## Web Development:
 - Frontend: Javascript: React
-<br /> - Backend: Node.js: Express, Python: Django
+<br />- Backend: Node.js: Express, Python: Django
 <br /> - Stack: LAMP, MERN
 <br /> - APIs: REST, GraphQL, gRPC
 <br /> - Service Mesh: Anthos Service Mesh, Istio
