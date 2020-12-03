@@ -32,6 +32,12 @@ Serverless:
 - AWS Amplify, AppSync, Lambda, API Gateway, Cognito 
 - GCP Firebase, Cloud Functions, Cloud Endpoints, Apigee
 
+Databases:
+- AWS RDS, Aurora, DynamoDB, Redshift
+- GCP CloudSQL, CloudSpanner, Bigtable, Datastore, Firestore, BigQuery
+- Azure SQL
+- MongoDB
+
 IaC
 - Terraform
 - Terragrunt
@@ -43,3 +49,8 @@ CICD:
 - AWS Code Build / Code Deploy / Code Pipeline / Code Star
 - GCP Cloud Build
 - Azure Devops
+
+Machine Learning:
+- Python: Panda, Tensorflow, Keras
+- AWS Sagemaker
+- GCP AutoML
