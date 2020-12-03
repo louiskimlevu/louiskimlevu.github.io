@@ -2,24 +2,24 @@
 
 # Technologies/methodologies I like to use
 
-### Web Development:
+#### Web Development:
 - Frontend: Javascript: React
 - Backend: Node.js: Express, Python: Django
 - Stack: LAMP, MERN
 - APIs: REST, GraphQL, gRPC
 - Service Mesh: Anthos Service Mesh, Istio
 
-### Virtual Machines / IaaS:
+#### Virtual Machines / IaaS:
 - AWS EC2
 - GCP Compute Engine
 - Azure Virtual Machines
 
-### PaaS:
+#### PaaS:
 - AWS Beanstalk
 - GCP App Engine
 - Azure App Service
 
-### Containers:
+#### Containers:
 - Docker
 - Kubernetes
 - Helm
@@ -28,31 +28,31 @@
 - Azure AKS
 - Nginx Ingress Controller
 
-### Serverless:
+#### Serverless:
 - AWS Amplify, AppSync, Lambda, API Gateway, Cognito
 - GCP Firebase, Cloud Functions, Cloud Endpoints, Apigee
 
-### Databases:
+#### Databases:
 - AWS RDS, Aurora, DynamoDB, Redshift
 - GCP CloudSQL, CloudSpanner, Bigtable, Datastore, Firestore, BigQuery
 - Azure SQL
 - MongoDB
 
-## IaC / Config Management
+#### IaC / Config Management
 - Terraform: Terragrunt
 - Ansible
 - AWS CloudFormation, System Manager, OpsWork
 - GCP Deployment Manager
 - Azure Resource Manager
 
-### Logging / Monitoring
+#### Logging / Monitoring
 - Monitoring: Datadog, Prometheus
 - Logs: ELK, Splunk
 - AWS CloudWatch
 - GCP Operation Suites
 - Azure Monitor
 
-### CICD:
+#### CICD:
 - Gitlab CICD
 - Github Actions
 - Terraform Cloud
@@ -60,19 +60,19 @@
 - GCP Cloud Build
 - Azure Devops
 
-### Machine Learning:
+#### Machine Learning:
 - Python: Panda, Numpy, Scikit-learn, Tensorflow, Keras
 - AWS Sagemaker
 - GCP AutoML
 
-### Cloud Migrations:
+#### Cloud Migrations:
 - Cloud Readiness assessment
 - Application Discovery and analysis
 - AWS Cloud Adoption Framework workshops & action plans, MAP (MRA, MRP, Migrate)
 - GCP Cloud Adoption Framework, Google PSO infrastrusture migrations packages
 - Azure Cloud Adoption Framework
 
-### Certifications
+#### Certifications
 <img src="images/GCPACE.png?raw=true" height="150" width="150"/>
 <a href="https://www.qwiklabs.com/public_profiles/06b357b8-6821-485b-b811-fa29cee6a4c5">
 <img src="images/GCPLAB.png?raw=true" height="150" width="150"/>
