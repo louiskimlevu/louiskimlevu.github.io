@@ -10,13 +10,17 @@ APIs:
 Web Development:
 - Frontend: Javascript: React
 - Backend: Node.js: Express, Python: Django
+- LAMP stack
 
-serverless:
-- AWS Amplify
-- AWS AppSync
-- AWS API Gateway
-- AWS Lambda
-- AWS Cognito
+Virtual Machines / IaaS:
+- AWS EC2
+- GCP Compute Engine
+- Azure Virtual Machines
+
+PaaS:
+- AWS Beanstalk
+- GCP App Engine
+- Azure App Service
 
 Containers:
 - Docker
@@ -24,7 +28,11 @@ Containers:
 - Helm
 - GCP GKE / Cloud Run / Anthos GKE On Prem
 - AWS ECS / EKS
-- Azure AKS / ACI
+- Azure AKS
+- Nginx Ingress Controller
+
+Serverless:
+- GCP Firebase
 
 IaC
 - Terraform
