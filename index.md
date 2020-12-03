@@ -28,7 +28,7 @@
 - Nginx Ingress Controller
 
 #### Serverless:
-- AWS Amplify, AppSync, Lambda, API Gateway, Cognito
+- AWS SAM, Amplify, AppSync, Lambda, API Gateway, Cognito
 - GCP Firebase, Cloud Functions, Cloud Endpoints, Apigee
 
 #### Databases:
