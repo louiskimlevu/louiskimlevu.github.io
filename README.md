@@ -62,6 +62,6 @@ Machine Learning:
 Cloud Migrations:
 - Cloud Readiness assessment
 - Application Discovery and analysis
-- AWS Cloud Adoption Framework, MAP (MRA, MRP, Migrate)
+- AWS Cloud Adoption Framework workshops & action plans, MAP (MRA, MRP, Migrate)
 - GCP Cloud Adoption Framework, Google PSO infrastrusture migrations packages 
 - Azure Cloud Adoption Framework
