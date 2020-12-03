@@ -5,73 +5,72 @@
 ## Web Development:
 - Frontend: Javascript: React
 - Backend: Node.js: Express, Python: Django
-<br /> - Stack: LAMP, MERN
-<br /> - APIs: REST, GraphQL, gRPC
-<br /> - Service Mesh: Anthos Service Mesh, Istio
+- Stack: LAMP, MERN
+- APIs: REST, GraphQL, gRPC
+- Service Mesh: Anthos Service Mesh, Istio
 
 ## Virtual Machines / IaaS:
-AWS EC2
-<br /> GCP Compute Engine
-<br /> Azure Virtual Machines
+- AWS EC2
+- GCP Compute Engine
+- Azure Virtual Machines
 
 ## PaaS:
-AWS Beanstalk
-<br /> GCP App Engine
-<br /> Azure App Service
+- AWS Beanstalk
+- GCP App Engine
+- Azure App Service
 
 ## Containers:
-Docker
-<br />Kubernetes
-<br /> Helm
-<br /> GCP GKE, Cloud Run, Anthos GKE On Prem
-<br /> AWS ECS, EKS
-<br /> Azure AKS
-<br /> Nginx Ingress Controller
+- Docker
+- Kubernetes
+- Helm
+- GCP GKE, Cloud Run, Anthos GKE On Prem
+- AWS ECS, EKS
+- Azure AKS
+- Nginx Ingress Controller
 
 ## Serverless:
-AWS Amplify, AppSync, Lambda, API Gateway, Cognito
-<br /> GCP Firebase, Cloud Functions, Cloud Endpoints, Apigee
+- AWS Amplify, AppSync, Lambda, API Gateway, Cognito
+- GCP Firebase, Cloud Functions, Cloud Endpoints, Apigee
 
 ## Databases:
-AWS RDS, Aurora, DynamoDB, Redshift
-<br /> GCP CloudSQL, CloudSpanner, Bigtable, Datastore, Firestore, BigQuery
-<br /> Azure SQL
-<br /> MongoDB
+- AWS RDS, Aurora, DynamoDB, Redshift
+- GCP CloudSQL, CloudSpanner, Bigtable, Datastore, Firestore, BigQuery
+- Azure SQL
+- MongoDB
 
 ## IaC / Config Management
-Terraform
-<br /> Terragrunt
-<br /> Ansible
-<br /> AWS CloudFormation, System Manager, OpsWork
-<br /> GCP Deployment Manager
-<br /> Azure Resource Manager
+- Terraform: Terragrunt
+- Ansible
+- AWS CloudFormation, System Manager, OpsWork
+- GCP Deployment Manager
+- Azure Resource Manager
 
 ## Logging / Monitoring
-Logs: Datadog, Prometheus
-<br /> Logs: ELK, Splunk
-<br /> AWS CloudWatch
-<br /> GCP Operation Suites
-<br /> Azure Monitor
+- Monitoring: Datadog, Prometheus
+- Logs: ELK, Splunk
+- AWS CloudWatch
+- GCP Operation Suites
+- Azure Monitor
 
 ## CICD:
-Gitlab CICD
-<br /> Github Actions
-<br /> Terraform Cloud
-<br /> AWS Code Build / Code Deploy / Code Pipeline / Code Star
-<br /> GCP Cloud Build
-<br /> Azure Devops
+- Gitlab CICD
+- Github Actions
+- Terraform Cloud
+- AWS Code Build / Code Deploy / Code Pipeline / Code Star
+- GCP Cloud Build
+- Azure Devops
 
 ## Machine Learning:
-Python: Panda, Numpy, Scikit-learn, Tensorflow, Keras
-<br /> AWS Sagemaker
-<br /> GCP AutoML
+- Python: Panda, Numpy, Scikit-learn, Tensorflow, Keras
+- AWS Sagemaker
+- GCP AutoML
 
 ## Cloud Migrations:
-Cloud Readiness assessment
-<br /> Application Discovery and analysis
-<br /> AWS Cloud Adoption Framework workshops & action plans, MAP (MRA, MRP, Migrate)
-<br /> GCP Cloud Adoption Framework, Google PSO infrastrusture migrations packages
-<br /> Azure Cloud Adoption Framework
+- Cloud Readiness assessment
+- Application Discovery and analysis
+- AWS Cloud Adoption Framework workshops & action plans, MAP (MRA, MRP, Migrate)
+- GCP Cloud Adoption Framework, Google PSO infrastrusture migrations packages
+- Azure Cloud Adoption Framework
 
 ### Certifications
 <img src="images/GCPACE.png?raw=true" height="150" width="150"/>
