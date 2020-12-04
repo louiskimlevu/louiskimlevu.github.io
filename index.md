@@ -14,6 +14,7 @@
 - Azure Virtual Machines
 
 #### PaaS:
+- Heroku
 - AWS Beanstalk
 - GCP App Engine
 - Azure App Service
