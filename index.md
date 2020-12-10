@@ -1,7 +1,9 @@
 # Introduction
 As a Solution Architect, my technical goal is to have a good understanding of the most commonly used technologies in IT. 
-My area of expertise covers Public Cloud, Cloud native and serverless technologies, Devops/CICD, Cloud Migration tenets.
+My area of expertise covers Public Cloud AWS/GCP/Azure, Cloud native and serverless technologies, Devops/CICD, Cloud Migration tenets.
 I am also intersted in the Data and ML piece.
+
+Next step: cloud sandbox with capabilities
 
 # Technologies/methodologies
 #### Web Development:
