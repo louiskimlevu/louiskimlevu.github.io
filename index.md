@@ -1,4 +1,7 @@
-
+# Introduction
+As a Solution Architect, my technical goal is to have a good understanding of the most commonly used technologies in IT. 
+My area of expertise covers Public Cloud, Cloud native and serverless, Devops, Cloud Migration.
+I am also intersted in the Data and ML piece.
 
 # Technologies/methodologies
 #### Web Development:
