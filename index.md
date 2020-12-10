@@ -5,6 +5,8 @@ I am also intersted in the Data and ML piece.
 
 Next step: cloud sandbox with capabilities
 
+# [Architectures](https://www.google.com "Google's Homepage")
+
 # Technologies/methodologies
 #### Web Development:
 - Frontend: Javascript: React
