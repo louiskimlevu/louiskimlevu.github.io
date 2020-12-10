@@ -7,6 +7,8 @@ Next step: cloud sandbox with capabilities
 
 # [Architectures](https://louiskimlevu.github.io/architectures/)
 
+# [Architectures v2](https://louiskimlevu.github.io/)
+
 # Technologies/methodologies
 #### Web Development:
 - Frontend: Javascript: React
