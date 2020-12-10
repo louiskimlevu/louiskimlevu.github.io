@@ -5,7 +5,7 @@ I am also intersted in the Data and ML piece.
 
 Next step: cloud sandbox with capabilities
 
-# [Architectures](https://github.com/louiskimlevu/louiskimlevu.github.io/blob/master/architecture/architectures.md)
+# [Architectures](https://louiskimlevu.github.io/architectures/)
 
 # Technologies/methodologies
 #### Web Development:
