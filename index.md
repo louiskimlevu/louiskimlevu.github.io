@@ -5,10 +5,9 @@ I am also intersted in the Data and ML piece.
 
 Next step: cloud sandbox with capabilities
 
-# [Architectures](https://louiskimlevu.github.io/architectures/)
-
-# [Architectures v2](https://louiskimlevu.github.io/)
-
+# [Projects](https://louiskimlevu.github.io/)
+- [react.lklv.net](http://react.lklv.net/)
+- [hello.lklv.net](http://hello.lklv.net/)
 # Technologies/methodologies
 #### Web Development:
 - Frontend: Javascript: React
