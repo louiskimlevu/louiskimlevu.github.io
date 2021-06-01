@@ -107,4 +107,3 @@ Next step: cloud sandbox with capabilities
 <a href="https://www.credly.com/badges/ddbb7f46-7309-4c4b-b693-be5b9946dbe6">
 <img src="images/AWSCP.png?raw=true" height="150" width="150"/>
 </a>
-
