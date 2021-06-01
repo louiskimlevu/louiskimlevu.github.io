@@ -92,19 +92,19 @@ Next step: cloud sandbox with capabilities
 
 
 <br/>
-<a href="https://www.credly.com/earner/earned/badge/2dd432c8-87d0-4d28-97f3-26a1947f7222">
+<a href="https://www.credly.com/badges/2dd432c8-87d0-4d28-97f3-26a1947f7222">
 <img src="images/AWSSAPRO.png?raw=true" height="150" width="150"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/9da93e31-41d4-4945-be5e-783b59214277">
+<a href="https://www.credly.com/badges/9da93e31-41d4-4945-be5e-783b59214277">
 <img src="images/AWSSA.png?raw=true" height="150" width="150"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/b3c6fcac-197f-4291-b204-bd0ad888325d">
+<a href="https://www.credly.com/badges/b3c6fcac-197f-4291-b204-bd0ad888325d">
 <img src="images/AWSDEV.png?raw=true" height="150" width="150"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/d5915dda-b6d9-4e47-b5d8-8fe23bc2b18d">
+<a href="https://www.credly.com/badges/d5915dda-b6d9-4e47-b5d8-8fe23bc2b18d">
 <img src="images/AWSSYSOPS.png?raw=true" height="150" width="150"/>
 </a>
-<a href="https://www.credly.com/earner/earned/badge/ddbb7f46-7309-4c4b-b693-be5b9946dbe6">
+<a href="https://www.credly.com/badges/ddbb7f46-7309-4c4b-b693-be5b9946dbe6">
 <img src="images/AWSCP.png?raw=true" height="150" width="150"/>
 </a>
 
