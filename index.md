@@ -92,13 +92,19 @@ Next step: cloud sandbox with capabilities
 
 
 <br/>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-12-16&ci=AWS01139510">
+<a href="https://www.credly.com/earner/earned/badge/2dd432c8-87d0-4d28-97f3-26a1947f7222">
+<img src="images/AWSSAPRO.png?raw=true" height="150" width="150"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/9da93e31-41d4-4945-be5e-783b59214277">
 <img src="images/AWSSA.png?raw=true" height="150" width="150"/>
 </a>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=2&t=c&d=2020-01-30&ci=AWS01139510">
+<a href="https://www.credly.com/earner/earned/badge/b3c6fcac-197f-4291-b204-bd0ad888325d">
 <img src="images/AWSDEV.png?raw=true" height="150" width="150"/>
 </a>
-<a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-11-20&ci=AWS01139510">
+<a href="https://www.credly.com/earner/earned/badge/d5915dda-b6d9-4e47-b5d8-8fe23bc2b18d">
+<img src="images/AWSSYSOPS.ng?raw=true" height="150" width="150"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/ddbb7f46-7309-4c4b-b693-be5b9946dbe6">
 <img src="images/AWSCP.png?raw=true" height="150" width="150"/>
 </a>
 
