@@ -102,7 +102,7 @@ Next step: cloud sandbox with capabilities
 <img src="images/AWSDEV.png?raw=true" height="150" width="150"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/d5915dda-b6d9-4e47-b5d8-8fe23bc2b18d">
-<img src="images/AWSSYSOPS.ng?raw=true" height="150" width="150"/>
+<img src="images/AWSSYSOPS.png?raw=true" height="150" width="150"/>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/ddbb7f46-7309-4c4b-b693-be5b9946dbe6">
 <img src="images/AWSCP.png?raw=true" height="150" width="150"/>
